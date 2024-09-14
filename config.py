@@ -38,12 +38,12 @@ class Config:
 
         "dark": {
             "hallway": pygame.Color(214, 209, 205),
-            "background": pygame.Color(60, 63, 65),
+            "background": pygame.Color(74, 73, 74),
             "square": [
-                pygame.Color(224, 26, 79),
-                pygame.Color(173, 247, 182),
-                pygame.Color(249, 194, 46),
-                pygame.Color(83, 179, 203)
+                pygame.Color(119, 217, 166),
+                pygame.Color(119, 217, 166),
+                pygame.Color(119, 217, 166),
+                pygame.Color(119, 217, 166)
             ]
         },
         # credits to TheCodingCrafter for these themes
