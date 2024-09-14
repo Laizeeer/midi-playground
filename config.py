@@ -27,23 +27,23 @@ class Config:
     color_themes = {
         "dark_modern": {
             "hallway": pygame.Color(40, 44, 52),
-            "background": pygame.Color(24, 26, 30),
+            "background": pygame.Color(105, 27, 97),
             "square": [
-                pygame.Color(224, 26, 79),
-                pygame.Color(173, 247, 182),
-                pygame.Color(249, 194, 46),
-                pygame.Color(83, 179, 203)
+                pygame.Color(125, 121, 125),
+                pygame.Color(125, 121, 125),
+                pygame.Color(125, 121, 125),
+                pygame.Color(125, 121, 125)
             ]
         },
 
         "dark": {
             "hallway": pygame.Color(214, 209, 205),
-            "background": pygame.Color(60, 63, 65),
+            "background": pygame.Color(59, 58, 59),
             "square": [
-                pygame.Color(224, 26, 79),
-                pygame.Color(173, 247, 182),
-                pygame.Color(249, 194, 46),
-                pygame.Color(83, 179, 203)
+                pygame.Color(120, 250, 148),
+                pygame.Color(120, 250, 148),
+                pygame.Color(120, 250, 148),
+                pygame.Color(120, 250, 148)
             ]
         },
         # credits to TheCodingCrafter for these themes
